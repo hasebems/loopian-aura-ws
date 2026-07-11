@@ -1,6 +1,8 @@
 # AI × プログラミングでLEDを七色に光らせる！ -KAMOE LAB-
 
-<img src="aura_picture.jpg" width="80%">
+<p align="center">
+    <img src="aura_picture.jpg" width="80%">
+</p>
 
 「ChatGPT」や「Gemini」などの生成AIは、生活のツールとしてすでに私たちの日常にとけ込みはじめています。実はプログラミングの世界でも、これらの生成AIが活用されはじめています。
     
@@ -19,7 +21,7 @@
 - 事前に以下のページを参考に、プログラミングを行うためのアプリ thonny をインストールしてください
     - [Windows11対応：Thonnyのインストール手順と使い方【初心者向け】](https://www.xn--x8j5bya0mb35bzd1992bqgi.com/thonny-install-windows11-guide/)
     - Windows の方は、上記のページの「Thonnyのダウンロードとインストール」の通りにインストールします
-    - Mac の方は、上記と同様にダウンロードすれば、通常と同様にインストールを行うことができます
+    - Mac の方は、上と同様にダウンロードすれば、通常のアプリと同様にインストールを行うことができます
         - ダウンロードの際、Intel Mac か、Apple Silicon かを選ぶ必要がありますので、ご自身の Mac の種類を事前に確認しておいてください
 
 

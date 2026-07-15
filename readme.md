@@ -1,7 +1,7 @@
 # AI × プログラミングでLEDを七色に光らせる！ -KAMOE LAB-
 
 <p align="center">
-    <img src="aura_picture.jpg" width="80%">
+    <img src="doc/aura_picture.jpg" width="80%">
 </p>
 
 「ChatGPT」や「Gemini」などの生成AIは、生活のツールとしてすでに私たちの日常にとけ込みはじめています。実はプログラミングの世界でも、これらの生成AIが活用されはじめています。
@@ -11,9 +11,9 @@
 
 ## 本イベントについて
 
-- 日時: 2026 9/27 (Sat) 10:00 - 15:00
+- 日時: 2026 9/26 (Sat) 10:00 - 15:00
 - 場所: 浜松市鴨江アートセンター 201号室
-- [お知らせ&申し込みページはこちら](https://kamoeartcenter.org/events/202602007/)
+- [お知らせ&申し込みページはこちら](https://kamoeartcenter.org/events/20260926-led/)
 
 
 ## 参加前の準備
@@ -30,7 +30,5 @@
 (ただいま準備中)
 
 <!-- 
-## ファシリテータ用の準備ページ
-
-### Loopian::AURA の作り方
+## [ファシリテータ用準備ページ](doc/prepare.md)
 -->

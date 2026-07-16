@@ -10,8 +10,10 @@
     - board を PC の USB に接続
     - 以下のように、許可を求められるので、許可をクリック  
     <img src="micropython1.png" width="30%">
+
     - Window の右下から、「Micropythonをインストール..」を選択  
     <img src="micropython2.png" width="80%">
+
     - ボードの種類から「Waveshare RP2040 Zero」選択  
     <img src="micropython3.png" width="80%">
 

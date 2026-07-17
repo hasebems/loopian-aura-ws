@@ -23,9 +23,14 @@
     - Windows の方は、上記のページの「Thonnyのダウンロードとインストール」の通りにインストールします
     - Mac の方は、上と同様にダウンロードすれば、通常のアプリと同様にインストールを行うことができます
         - ダウンロードの際、Intel Mac か、Apple Silicon かを選ぶ必要がありますので、ご自身の Mac の種類を事前に確認しておいてください
+- ワークショップで使う AI は特別なものではある必要はありません。普段皆さんが使っているものがあれば、ぜひそれをご使用ください。
+    - AI をまだ使ったことがないという方は、Google のアカウントで使える Gemini をお勧めします。以下にいろいろな AI へのリンクを紹介します。
+    - [Gemini（ジェミニ）by Google](https://gemini.google.com/app)
+    - [ChatGPT（チャッピー）by OpenAI](https://chatgpt.com/ja-JP/)
+    - [copilot（コパイロット）by Microsoft](https://copilot.microsoft.com/)
+    - [claude（クロード）by Anthropic](https://claude.ai/)
 
-
-## 当日のサンプルプログラム
+## 当日のサンプルプログラムとプロンプト
 
 (ただいま準備中)
 

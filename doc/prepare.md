@@ -1,8 +1,11 @@
 # ファシリテーター用準備ページ
 
+## 当日の持ち物
 
-## Loopian::AURA の作り方
-
+- Loopian::AURA のキット
+- 小型のプラスドライバ
+- USBメモリ  
+    最悪アプリやpythonランタイムのインストールのため
 
 ## Micropython の書き込み
 
@@ -21,3 +24,6 @@
     - [micropythonのダウンロードページ](https://micropython.org/download/WAVESHARE_RP2040_ZERO/)  
     - <a href="WAVESHARE_RP2040_ZERO-20260406-v1.28.0.uf2">ダウンロードしたmicropythonはこちら</a>
 
+## Loopian::AURA の作り方
+
+- （現在準備中）

@@ -6,6 +6,10 @@
 - 小型のプラスドライバ
 - USBメモリ  
     最悪アプリやpythonランタイムのインストールのため
+- USB BtoC アダプタ  
+    B をさせない人用
+- PC
+- Loopian::QUBIT
 
 ## Micropython の書き込み
 

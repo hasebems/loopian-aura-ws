@@ -36,13 +36,16 @@
 (ただいま準備中)
 
 <!-- 
-- サンプルプログラム
-    - [サンプル1](src/sample1.py)
-
 - プロンプト
-    - [How to code](doc/how_to_code.md)
+    - [AIへの最初のプロンプト](doc/first_prompt.md)
     - [ざっくりしたイメージから案を出してもらう](doc/suggest.md)
     - [具体化のサンプル](doc/detail.md)
+
+- サンプルプログラム
+    - [sample1.py](src/sample1.py)
+
+- 本日の資料
+    - [プレゼンテーション資料](doc/202609ws.pdf)
 
 ## [ファシリテータ用準備ページ](doc/prepare.md)
 -->
